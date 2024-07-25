@@ -1,6 +1,5 @@
 # write a function called max_of_three that takes three parameters as inputs and returns the largest of the three. The function should use conditional statements to compare the values and determine the greatest.  
 
-#   Ensure that your function handles edge cases, such as when two or more numbers are equal.
 
 
 def max_of_three(a, b, c):
